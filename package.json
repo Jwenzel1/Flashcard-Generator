@@ -1,0 +1,25 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Don't worry about it",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gatan45/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "Flashcard"
+  ],
+  "author": "Joe Wenzel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gatan45/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/gatan45/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2"
+  }
+}
